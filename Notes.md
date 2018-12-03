@@ -4,4 +4,4 @@ To do:
 * create manuscript file
 * add languages
 * add figures
-*do analysis
+* do analysis
